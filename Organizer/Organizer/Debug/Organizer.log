@@ -1,3 +1,4 @@
 ﻿  Source.cpp
+c:\users\spencer\documents\github\c-alphabetizer\organizer\organizer\source.cpp(39): warning C4018: '<': signed/unsigned mismatch
   Organizer.vcxproj -> C:\Users\Spencer\Documents\GitHub\C-alphabetizer\Organizer\Debug\Organizer.exe
   Organizer.vcxproj -> C:\Users\Spencer\Documents\GitHub\C-alphabetizer\Organizer\Debug\Organizer.pdb (Full PDB)
